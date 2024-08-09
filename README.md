@@ -1,6 +1,8 @@
 # Ecommerce-Sales-Data-Analysis
 Ecommerce Data Analysis
 Analysed ecommerce sales data. Created an interactive dashboard using Power Bi.
+
+
 Project Learnings - 
 * Created interactive dashboard to track and analyze online sales data
 * Used complex parameters to drill down in worksheet and customization using filters and slicers
